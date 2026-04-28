@@ -1,2 +1,15 @@
-# sql-learning-notes
-Daily SQL learning records, exercises and notes for data analysis &amp; computational political science.
+# SQL Learning Notes 💻
+个人SQL学习练习仓库，用于日常练习、语法积累、数据分析能力沉淀，
+服务于计算政治学、城市治理量化研究与数据分析实习准备。
+
+## 内容分类
+- 基础查询语法
+- 数据筛选与排序
+- 分组统计与聚合运算
+- 多表联结与复杂查询
+- 学习错题&易错语法总结
+
+## 学习进度
+- [YYYY-MM-DD] 新建仓库，开启SQL系统学习
+- [YYYY-MM-DD] 完成基础SELECT语句练习
+- [YYYY-MM-DD] 学习WHERE条件、ORDER BY 排序
